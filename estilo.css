@@ -1,0 +1,429 @@
+.corpo{
+	width:100%
+	}
+#unidade{
+	position: relative;
+	top:-90px;
+	left:100px;
+	font-family:arial;
+	font-size:30;
+}
+#data{
+	position: relative;
+	top:-120px;
+	left:470px;
+	font-family:arial;
+	font-size:20;
+	width:900px;	
+}
+#frente{
+	position: relative;
+	top:-70px;
+	font-family:arial;
+	font-size:20;
+}
+#justifica{
+	position: relative;
+	top:-130px;
+	left:670px;
+	font-family:arial;
+	font-size:10;
+	width:700px;
+}
+#colaborador{
+	position: relative;
+	top:-70px;
+	font-family:arial;
+	font-size: 13;
+}
+#jornada{
+	display:flex;
+	position: relative;
+	top:-99px;
+	left:619px;
+	font-family:arial;
+	font-size: 10;
+	width:243px;
+	height:19px;
+	border: solid;
+	border-width:1px;
+	align-items:center;
+	justify-content:center;
+	background-color: #e8d330;
+}
+#escala{
+	display:flex;
+	position: relative;
+	top:-100px;
+	right:15px;
+	font-family:arial;
+	font-size: 10;
+	width:400px;
+	height:19px;
+	border: solid;
+	border-width:1px;
+	align-items:center;
+	justify-content:center;
+	 background-color: #e8d330;
+
+}
+#atestado{
+	display:flex;
+	position: relative;
+	top:-121px;
+	left:385px;
+	font-family:arial;
+	font-size: 9;
+	width:50px;
+	height:19px;
+	border: solid;
+	border-width:1px;
+	align-items:center;
+	justify-content:center;
+	background-color: #e8d330;
+}
+#banco{
+	display:flex;
+	position: relative;
+	top:-142px;
+	left:436px;
+	font-family:arial;
+	font-size: 7;
+	width:60px;
+	height:19px;
+	border: solid;
+	border-width:1px;
+	align-items:center;
+	justify-content:center;
+	background-color: #e8d330;
+}
+#desconto{
+	display:flex;
+	position: relative;
+	top:-163px;
+	left:497px;
+	font-family:arial;
+	font-size: 7;
+	width:60px;
+	height:19px;
+	border: solid;
+	border-width:1px;
+	align-items:center;
+	justify-content:center;
+	background-color: #e8d330;
+}
+#justifica_intern{
+	display:flex;
+	position: relative;
+	top:-184px;
+	left:863px;
+	font-family:arial;
+	font-size: 7;
+	width:60px;
+	height:19px;
+	border: solid;
+	border-width:1px;
+	align-items:center;
+	justify-content:center;
+	background-color: #e8d330;
+}
+#dispensas{
+	display:flex;
+	position: relative;
+	top:-205px;
+	left:558px;
+	font-family:arial;
+	font-size: 7;
+	width:60px;
+	height:19px;
+	border: solid;
+	border-width:1px;
+	align-items:center;
+	justify-content:center;
+	background-color: #e8d330;
+}
+#inicio_jorna{
+	display:flex;
+	position: relative;
+	top:-226px;
+	left:619px;
+	font-family:arial;
+	font-size: 7;
+	width:60px;
+	height:19px;
+	border: solid;
+	border-width:1px;
+	align-items:center;
+	justify-content:center;
+	background-color: #e8d330;
+}
+#intervalo_intern{
+	display:flex;
+	position: relative;
+	top:-247px;
+	left:680px;
+	font-family:arial;
+	font-size: 7;
+	width:121px;
+	height:19px;
+	border: solid;
+	border-width:1px;
+	align-items:center;
+	justify-content:center;
+	background-color: #e8d330;
+}
+#final_jorna{
+	display:flex;
+	position: relative;
+	top:-268px;
+	left:802px;
+	font-family:arial;
+	font-size: 7;
+	width:60px;
+	height:19px;
+	border: solid;
+	border-width:1px;
+	align-items:center;
+	justify-content:center;
+	background-color: #e8d330;
+	
+}
+#comentario{
+	display:flex;
+	position: relative;
+	top:-289px;
+	left:924px;
+	font-family:arial;
+	font-size: 7;
+	width:430px;
+	height:19px;
+	border: solid;
+	border-width:1px;
+	align-items:center;
+	justify-content:center;
+	background-color: #e8d330;
+}
+#dia{
+	position: relative;
+	top:-280px;
+	font-family:arial;
+	font-size:10;
+}
+#inicio_pre{
+	width:60px;
+	height:25px;
+	display:flex;
+	position: relative;
+	top:-301px;
+	left:619px;
+	border:1px solid #000;
+}
+#inicio_ref{
+	width: 60px;
+	height:25px;
+	display:flex;
+	position: relative;
+	top:-328px;
+	left:680px;
+	border:1px solid #000;
+}
+#fim_ref{
+	width: 60px;
+	height:25px;
+	display:flex;
+	position: relative;
+	top:-355px;
+	left:741px;
+	border:1px solid #000;
+}
+#fim_pre{
+	width: 60px;
+	height:25px;
+	display:flex;
+	position: relative;
+	top:-382px;
+	left:802px;
+	border:1px solid #000;
+}
+#pren_justif{
+	width: 21px;
+	height:21px;
+	display:flex;
+	position: relative;
+	top:-405px;
+	left:880px;
+	border:1px solid #000;
+}
+#pre_atestado{
+	width: 15px;
+	height:15px;
+	display:flex;
+	position: relative;
+	top:-426px;
+	left:400px;
+	border:1px solid #000;
+}
+#pre_dbh{
+	width: 15px;
+	height:15px;
+	display:flex;
+	position: relative;
+	top:-443px;
+	left:455px;
+	border:1px solid #000;
+}
+#pre_descdia{
+	width: 15px;
+	height:15px;
+	display:flex;
+	position: relative;
+	top:-460px;
+	left:500px;
+	border:1px solid #000;
+}
+#pre_deschora{
+	width: 15px;
+	height:15px;
+	display:flex;
+	position: relative;
+	top:-477px;
+	left:530px;
+	border:1px solid #000;
+}
+#pre_dispchuva{
+	width: 15px;
+	height:15px;
+	display:flex;
+	position: relative;
+	top:-494px;
+	left:560px;
+	border:1px solid #000;
+}
+#pre_dispop{
+	width: 15px;
+	height:15px;
+	display:flex;
+	position: relative;
+	top:-511px;
+	left:590px;
+	border:1px solid #000;
+}
+#saldo_bh{
+	position: relative;
+	display:flex;
+	font-family:arial;
+	font-size:14;
+	top:-570px;
+	left:1100px;
+}
+#linha_coment{
+	position: relative;
+	display:flex;
+	top:-525px;
+	left:925px;
+	border-bottom-width:1px;
+	border-bottom-style:solid;
+	border-bottom-color:black;
+	width:430px;
+	height:1px;
+}
+#linha_nome_gestor{
+	position: relative;
+	display:flex;
+	top:-206px;
+	left:10px;
+	border-bottom-width:1px;
+	border-bottom-style:solid;
+	border-bottom-color:black;
+	width:430px;
+	height:1px;
+}
+#assina_gestor{
+	position: relative;
+	display:flex;
+	top:-208px;
+	left:520px;
+	border-bottom-width:1px;
+	border-bottom-style:solid;
+	border-bottom-color:black;
+	width:430px;
+	height:1px;
+}
+#data_gestor{
+	position: relative;
+	display:flex;
+	top:-210px;
+	left:1000px;
+	border-bottom-width:1px;
+	border-bottom-style:solid;
+	border-bottom-color:black;
+	width:100px;
+	height:1px;
+}
+#nome_gestor{
+	position:relative;
+	display:flex;
+	font-family:arial;
+	font-size:10;
+	top:-202px;
+	left:160px;
+}
+#assinatura_gestor{
+	position:relative;
+	display:flex;
+	font-family:arial;
+	font-size:10;
+	top:-213px;
+	left:670px;
+}
+#data_assinatura{
+	position:relative;
+	display:flex;
+	font-family:arial;
+	font-size:10;
+	top:-226px;
+	left:1043px;
+}
+#msg{
+	position:relative;
+	display:flex;
+	font-family:arial;
+	font-size:17;
+	top:-200px;
+	left:450px;
+}
+#qtd_horas{
+	position:relative;
+	display:flex;
+	font-family:arial;
+	font-size:9;
+	top:-600px;
+	left:345px;
+}
+#situacao{
+	position:relative;
+	display:flex;
+	font-family:arial;
+	font-size:9;
+	top:-609px;
+	left:135px;
+}
+#linha_cabe{
+	position:relative;
+	display:flex;
+	top:-720px;
+	right:15px;
+	border-bottom-width:1px;
+	border-bottom-style:solid;
+	border-bottom-color:black;
+	width:1900px;
+	height:1px;
+}
+#pagina{
+	font-family:arial;
+	font-size:8;
+	position:relative;
+	display:flex;
+	top:-250px;
+	left:1250px;
+}
